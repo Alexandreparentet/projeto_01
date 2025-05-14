@@ -1,0 +1,60 @@
+id,email,cnpj,social_name,legal_name,state_registration,phone,company_type,created_at,updated_at
+3,christene@hansen.example,60190670433685,da Silva-Gomes,"Empresa Franco, da Terra e Macedo Ltda.",429715512,(62) 2165-3171,buyer,2025-03-13 19:37:15.988665,2025-03-13 19:37:15.988665
+4,cherrie_stehr@mosciski.test,10079753518229,Parreira-Neves,Empresa Junqueira-Domingues Ltda.,535855986,(98) 5045-6620,buyer,2025-03-13 19:37:16.000357,2025-03-13 19:37:16.000357
+5,clair@roob-lubowitz.example,28755140103633,Silva-Leiria,Empresa Macieira LTDA Ltda.,667431542,(77) 6282-5808,supplier,2025-03-13 19:37:16.013530,2025-03-13 19:37:16.013530
+6,sonia.cassin@feil-jerde.test,30292330368198,"Rodrigues, Carvalheira e Guedes",Empresa Roriz S.A. Ltda.,598543433,(71) 1358-1886,supplier,2025-03-13 19:37:16.026508,2025-03-13 19:37:16.026508
+7,sergio.shanahan@williamson-nader.example,93448257745399,da Fronteira e Associados,Empresa Corrêa e Associados Ltda.,323156546,(67) 8971-8637,supplier,2025-03-13 19:37:16.038415,2025-03-13 19:37:16.038415
+8,angelo.purdy@schinner.example,65496315427133,"Castanho, Simão e Peixoto","Empresa Espinhosa, Ordonhes e Macieira Ltda.",801320716,(88) 3061-6538,supplier,2025-03-13 19:37:16.050164,2025-03-13 19:37:16.050164
+9,lloyd@konopelski.example,26205039560979,Pereira EIRELI,Empresa da Barra S.A. Ltda.,182793916,(28) 3039-2154,supplier,2025-03-13 19:37:16.062104,2025-03-13 19:37:16.062104
+10,johnathon@conroy.example,97342789562252,Castro-Ornelas,Empresa Moreira-da Mota Ltda.,189263601,(13) 4344-4004,supplier,2025-03-13 19:37:16.073863,2025-03-13 19:37:16.073863
+11,frances.emmerich@lesch.test,54954802400344,Ferraço Comércio,Empresa Quaresma LTDA Ltda.,440618432,(13) 9915-5139,supplier,2025-03-13 19:37:16.089728,2025-03-13 19:37:16.089728
+12,jan_parisian@rohan.test,46370049126527,Teles LTDA,Empresa Nascimento Comércio Ltda.,774218740,(62) 1840-3438,supplier,2025-03-13 19:37:16.129381,2025-03-13 19:37:16.129381
+13,desmond.krajcik@dubuque.test,41664633698814,de Oliveira-Paes,"Empresa Veloso, da Fontoura e Gabeira Ltda.",172714528,(81) 4050-9478,buyer,2025-03-13 19:37:16.154177,2025-03-13 19:37:16.154177
+14,alphonso_bergstrom@borer-ortiz.test,69542291192737,Ferraço-Álvares,Empresa Caldas-da Veiga Ltda.,202282122,(69) 3107-5073,buyer,2025-03-13 19:37:16.167302,2025-03-13 19:37:16.167302
+15,fatima_steuber@little-pfannerstill.example,38889716172466,Aguiar e Associados,"Empresa da Barra, Neves e Teixeira Ltda.",844535042,(61) 3123-4758,buyer,2025-03-13 19:37:16.180195,2025-03-13 19:37:16.180195
+16,theresia@thiel-emard.test,29367299326602,"Teixeira, Saraiva e Filgueira",Empresa Filgueira S.A. Ltda.,769853732,(97) 6738-4812,buyer,2025-03-13 19:37:16.193830,2025-03-13 19:37:16.193830
+17,ruth.olson@rogahn.example,17661199127979,de Quadros S.A.,Empresa Moreira Comércio Ltda.,193225024,(65) 7019-6910,supplier,2025-03-13 19:37:16.205932,2025-03-13 19:37:16.205932
+18,nichol.considine@watsica.test,88317909387508,"Mendanha, da Silveira e Sá",Empresa Rios e Associados Ltda.,617157563,(14) 5920-7115,supplier,2025-03-13 19:37:16.219851,2025-03-13 19:37:16.219851
+19,bert@hayes.test,72195895516147,"Saraiva, da Barranca e Neves",Empresa Albuquerque-Ouriques Ltda.,910818504,(83) 9943-8806,buyer,2025-03-13 19:37:16.243005,2025-03-13 19:37:16.243005
+20,elisabeth@stroman.test,25631403279660,Meireles LTDA,Empresa Neves S.A. Ltda.,708593889,(13) 9715-6729,supplier,2025-03-13 19:37:16.273471,2025-03-13 19:37:16.273471
+21,deloise@altenwerth.example,44115503900622,"Dias, Custódio e Corrêa",Empresa Santana LTDA Ltda.,126343329,(43) 3507-5410,buyer,2025-03-13 19:37:16.306564,2025-03-13 19:37:16.306564
+22,stefan_gislason@schaden.test,53362642585263,Freitas-Moura,Empresa Porteira-Munhoz Ltda.,355573635,(65) 8097-6142,buyer,2025-03-13 19:37:16.346168,2025-03-13 19:37:16.346168
+23,marinda.runolfsdottir@mcglynn.test,94303258226953,Oliveira Comércio,Empresa Mendanha-Morais Ltda.,923722433,(45) 3950-7979,buyer,2025-03-13 19:37:16.359878,2025-03-13 19:37:16.359878
+24,jannette_towne@boehm.example,73651526107942,Pinto-Goulart,Empresa Ferreira Comércio Ltda.,768132019,(93) 5471-1775,buyer,2025-03-13 19:37:16.379351,2025-03-13 19:37:16.379351
+25,zachery_bailey@gottlieb-parker.example,55116320975117,Hermingues LTDA,Empresa Espinhosa e Associados Ltda.,643497415,(88) 8907-9002,buyer,2025-03-13 19:37:16.393507,2025-03-13 19:37:16.393507
+26,deshawn@thiel-morissette.test,69214768007529,"da Luz, Taveira e Teles",Empresa Geraldes-Rêgo Ltda.,197110593,(38) 3757-9380,supplier,2025-03-13 19:37:16.422285,2025-03-13 19:37:16.422285
+27,sylvia_langworth@bernhard-cronin.test,33082137014546,"Ramalho, Grotas e Dias","Empresa Meira, Caseira e Bouças Ltda.",415114370,(33) 4747-6626,supplier,2025-03-13 19:37:16.441797,2025-03-13 19:37:16.441797
+28,otis.strosin@connelly.test,46288161305621,Guedes S.A.,"Empresa Moniz, Ramos e Viana Ltda.",381449288,(14) 6825-9658,buyer,2025-03-13 19:37:16.459688,2025-03-13 19:37:16.459688
+29,lara_schroeder@breitenberg.example,63626382210244,"da Silva, Amoreira e Vasques",Empresa Filgueira LTDA Ltda.,574178756,(74) 2487-2792,buyer,2025-03-13 19:37:16.473372,2025-03-13 19:37:16.473372
+30,zachariah_jakubowski@marks-jast.example,10201725855639,Camacho Comércio,Empresa da Mota-Negrão Ltda.,144743389,(11) 8052-2599,supplier,2025-03-13 19:37:16.490237,2025-03-13 19:37:16.490237
+31,genia@mraz-macejkovic.test,98829970595818,"Cabreira, Parreira e da Madureira","Empresa Silveira, Brites e Banheira Ltda.",700535991,(87) 9135-7003,supplier,2025-03-13 19:37:16.512689,2025-03-13 19:37:16.512689
+32,joan_smitham@gibson-maggio.example,30699656282466,da Rocha-Beltrão,Empresa Amoreira Comércio Ltda.,782899600,(84) 1923-7323,buyer,2025-03-13 19:37:16.526384,2025-03-13 19:37:16.526384
+33,max_willms@bergstrom.example,89654539525437,Laranjeira-Sales,"Empresa Pinto, Pereira e Santos Ltda.",841489012,(51) 2641-3452,supplier,2025-03-13 19:37:16.539028,2025-03-13 19:37:16.539028
+34,quinn@stracke.test,25443528509280,"da Barra, Santana e Quaresma","Empresa Soares, Rocha e Ordonhes Ltda.",674145543,(54) 1693-3359,buyer,2025-03-13 19:37:16.568447,2025-03-13 19:37:16.568447
+35,delois_medhurst@ratke.example,35941624790394,Mendanha LTDA,"Empresa Nunes, Veloso e Palmeira Ltda.",603006867,(45) 9485-7792,supplier,2025-03-13 19:37:16.589010,2025-03-13 19:37:16.589010
+36,gil@donnelly-ernser.example,51223459547141,Tavares-Carneiro,Empresa Cabreira e Associados Ltda.,483455825,(37) 8694-6723,buyer,2025-03-13 19:37:16.626083,2025-03-13 19:37:16.626083
+37,edyth@mann-trantow.example,63467287860484,de Lara Comércio,Empresa Paes-Santana Ltda.,641970335,(61) 9115-9693,supplier,2025-03-13 19:37:16.638501,2025-03-13 19:37:16.638501
+38,angelic.hartmann@jones.test,16395571013879,Siqueira-Camacho,"Empresa Barroso, da Silva e Simão Ltda.",554269343,(31) 4132-8686,supplier,2025-03-13 19:37:16.650292,2025-03-13 19:37:16.650292
+39,kendall.aufderhar@bins-windler.test,15432033128371,Leiria e Associados,Empresa Almeida EIRELI Ltda.,335710412,(65) 4782-8131,buyer,2025-03-13 19:37:16.662672,2025-03-13 19:37:16.662672
+40,malvina@rohan.test,16022428496576,Figueira-Cruz,"Empresa Macieira, Lopes e Novaes Ltda.",953775926,(97) 7569-8909,buyer,2025-03-13 19:37:16.675627,2025-03-13 19:37:16.675627
+41,leopoldo@strosin.example,74209354305279,"Lobos, Vidal e Corte",Empresa Souza-Goulart Ltda.,910049746,(96) 1365-3958,buyer,2025-03-13 19:37:16.688184,2025-03-13 19:37:16.688184
+42,cleveland@hoeger.example,51555450183483,Resende LTDA,Empresa Araújo-Gentil Ltda.,592767086,(62) 2298-5268,supplier,2025-03-13 19:37:16.699785,2025-03-13 19:37:16.699785
+43,rosaura_auer@stehr.example,19924481549223,"Rezende, Quarteira e Almada",Empresa Pinto Comércio Ltda.,804851510,(75) 1381-7879,buyer,2025-03-13 19:37:16.711011,2025-03-13 19:37:16.711011
+44,marquita@robel.example,52322087758268,Novaes-Neves,Empresa Silva-Roseira Ltda.,322529403,(31) 4691-7116,supplier,2025-03-13 19:37:16.722654,2025-03-13 19:37:16.722654
+1,zoraida.blanda@trantow-von.example,48547694190737,da Luz-da Conceição,Empresa Jaques-Limeira Ltda.,761745557,(96) 6627-2329,supplier,2025-03-13 19:37:15.962963,2025-04-13 05:02:49.791043
+45,mozell_schmidt@rosenbaum.example,54856452543992,Carvalheira-Chaves,Empresa Aparício-Palmeira Ltda.,310719427,(97) 4590-9644,supplier,2025-03-13 19:37:16.743519,2025-03-13 19:37:16.743519
+46,julio@bosco.test,12364068052517,"Cardoso, Brum e Silveira",Empresa Ribeira EIRELI Ltda.,105545506,(16) 2620-5968,supplier,2025-03-13 19:37:16.758713,2025-03-13 19:37:16.758713
+47,dale@bernier.example,24754825302563,Fontes-Peixoto,"Empresa da Luz, Barreto e Gonçalves Ltda.",741794186,(54) 5892-1982,supplier,2025-03-13 19:37:16.771905,2025-03-13 19:37:16.771905
+48,karey_stiedemann@tillman.example,25622150585931,Ornelas-Castro,Empresa Viveiros LTDA Ltda.,683588564,(88) 9083-9303,supplier,2025-03-13 19:37:16.783840,2025-03-13 19:37:16.783840
+49,dorie@cummings.test,74035774842658,Ribas-Soares,Empresa Carneiro S.A. Ltda.,475506047,(77) 6695-5480,supplier,2025-03-13 19:37:16.795799,2025-03-13 19:37:16.795799
+50,imogene.weimann@dibbert.example,62695702461066,"Rolim, Siqueiro e Espinhosa",Empresa Longuinho-Xavier Ltda.,185399201,(42) 2355-9036,supplier,2025-03-13 19:37:16.807783,2025-03-13 19:37:16.807783
+2,reggie.langosh@reilly.test,53936215958058,Bentes EIRELI,Empresa Ornelas Comércio Ltda.,607891156,(82) 9751-2480,buyer,2025-03-13 19:37:15.976534,2025-04-09 15:03:08.073717
+51,kfmfhvodm@gmsidsl.com,88545112000107,Fornecedor homolog te,Ryvs teste,345423123,(88) 98989-6636,supplier,2025-04-15 18:06:06.792065,2025-04-15 18:06:06.792065
+58,lisboamab@gmail.com,55126675000173,lisboa,lisboa ltda,00000000,(85) 99134-3471,buyer,2025-04-16 06:46:39.597142,2025-04-16 06:46:39.597142
+59,contato.marcolisboa@gmail.com,63564654000168,liboa2,testete ltda,00000000,(85) 99844-7134,buyer,2025-04-16 19:15:51.886828,2025-04-16 19:15:51.886828
+60,ryvane@gmail.com,83451600107356,Ryvane compradora,loja compradora daa ryvane ,41161467,(85) 98616-9299,buyer,2025-04-16 20:33:38.093125,2025-04-18 01:03:11.526637
+61,robervalsampaiors@gmail.com,01963943000182,Neval Alimentos LTDA,Neval Alimentos ,064105199,(85) 99819-5900,buyer,2025-04-18 00:58:56.169681,2025-04-18 01:04:38.600003
+62,Robervalsampaio@compreup.com.br,58111247000165,JMR DISTRIBUIDORA E LOGISTICA,JMR,000000,(85) 99819-5900,supplier,2025-04-18 01:09:42.482794,2025-04-18 01:20:42.378950
+63,jacyanadias3@gmail.com,07200181000149,cheppitos,cheppitos ,000000000,(85) 99819-5900,buyer,2025-04-18 12:51:00.352686,2025-04-18 12:51:00.352686
+64,robervalsampaio@compreup.com,64904295001509,CAMIL ALIMENTOS S/A,CAMIL ALIMENTOS S/A,00000000000,(85) 99999-9999,supplier,2025-04-25 00:17:30.263161,2025-04-25 00:17:30.263161
+65,deana6631@uorak.com,01963300018233,teste temporario,tempor porteram,41133343,(88) 88888-8965,buyer,2025-04-25 17:39:44.467269,2025-04-25 17:39:44.467269

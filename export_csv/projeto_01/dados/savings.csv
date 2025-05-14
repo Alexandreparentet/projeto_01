@@ -1,0 +1,3 @@
+id,company_id,supplier_product_id,saving_value,created_at,updated_at,previous_unit_price,current_unit_price
+1,2,60,100.00,2025-04-01 13:39:40.437316,2025-04-01 13:39:40.437316,2300.00,2200.00
+2,2,51,50.00,2025-04-01 13:43:58.778862,2025-04-01 13:43:58.778862,1600.00,1550.00
